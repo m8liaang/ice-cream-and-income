@@ -19,7 +19,7 @@ Source: [United States Department of Agriculture](https://ers.usda.gov/data-prod
 - [Soft Dairy Products Dataset](https://ers.usda.gov/media/5514/selected-soft-dairy-products-domestic-use-annual.csv?v=98309) (.csv file)
 
 ### Dataset: Median Household Income and Median Earnings by Educational Attainment: 2004 to 2024
-Median household income (bachelor's degree and above) data from [United States Census Bureau](https://www.census.gov/data/tables/2025/demo/income-poverty/p60-286.html):
+Source: [United States Census Bureau](https://www.census.gov/data/tables/2025/demo/income-poverty/p60-286.html)
 - [Median Household Income by Educational Attainment Dataset)](https://www2.census.gov/programs-surveys/demo/tables/p60/286/inc_ed.xlsx) (.xlsl file)
 
 ## Key Findings
