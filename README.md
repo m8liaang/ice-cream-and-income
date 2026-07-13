@@ -3,12 +3,14 @@
 This is an exploratory data analysis project.
 
 ## Overview
-An exploratory data analysis project on the relationship between ice cream consumption (United States Department of Agriculture) and median household income (U.S. Census Bureau) in the United States, utilizing Google Colab for coding. Visualization was done using matplotlib, seaborn, and NumPy. Structuring and cleaning of the data was done using Pandas, along with calculating linear regression. The main goal of the project was to become familiar with Python for basic data analysis.
+An exploratory data analysis project on the relationship between ice cream consumption (United States Department of Agriculture) and median household income (U.S. Census Bureau) over time in the United States, utilizing Google Colaboratory for coding. 
 
 ## Toolkit/Python Libraries Used
-pandas, numPy, matplotlib, seaborn
-
-This project was coded in Google Colaboratory.
+| Components of Analysis | Python Library |
+| --- | --- |
+| Data cleaning, preprocessing, and restructuring | Pandas |
+| Exploratory Analysis | Pandas, seaborn, matplotlib|
+| Visualizations | numPy, seaborn, matplotlib|
 
 ## Analysis Performed
 - Data cleaning and restructuring
