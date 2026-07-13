@@ -8,8 +8,8 @@ An exploratory data analysis project on the relationship between ice cream consu
 ## Toolkit/Python Libraries Used
 | Component of Analysis | Python Library (or Libraries)|
 | --- | --- |
-| Data cleaning, preprocessing, and restructuring | Pandas |
-| Exploratory Analysis | Pandas, seaborn, matplotlib|
+| Data cleaning, preprocessing, and restructuring | pandas |
+| Exploratory Analysis | pandas, seaborn, matplotlib|
 | Visualizations | numPy, seaborn, matplotlib|
 
 ## Analysis Performed
